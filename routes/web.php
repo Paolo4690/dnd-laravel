@@ -15,8 +15,9 @@ use Illuminate\Support\Facades\Route;
 
 
 // Route::get('/', function () {
-//     return view('welcome');
+//     return view('home');
 // });
 
+Route::get('/', 'HomeController@index')->name('home');
 
-Route::resource('show', 'MonsterController');
+Route::resource('/monsters', 'MonsterController');
