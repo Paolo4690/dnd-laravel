@@ -33,6 +33,7 @@ class CreateMonstersTable extends Migration
             $table->unsignedInteger("xp");
             $table->unsignedInteger("challenge_rating");
             $table->timestamps();
+
         });
     }
 

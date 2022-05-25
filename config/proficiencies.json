@@ -1,0 +1,134 @@
+[
+  {
+    "index": "saving-throw-con",
+    "name": "Saving Throw: CON",
+    "type": "Saving Throws",
+    "reference": "con"
+  },
+  {
+    "index": "saving-throw-int",
+    "name": "Saving Throw: INT",
+    "type": "Saving Throws",
+    "reference": "int"
+  },
+  {
+    "index": "saving-throw-wis",
+    "name": "Saving Throw: WIS",
+    "type": "Saving Throws",
+    "reference": "wis"
+  },
+  {
+    "index": "skill-history",
+    "name": "Skill: History",
+    "type": "Skills",
+    "reference": "history"
+  },
+  {
+    "index": "skill-perception",
+    "name": "Skill: Perception",
+    "type": "Skills",
+    "reference": "perception"
+  },
+  {
+    "index": "skill-medicine",
+    "name": "Skill: Medicine",
+    "type": "Skills",
+    "reference": "medicine"
+  },
+  {
+    "index": "skill-religion",
+    "name": "Skill: Religion",
+    "type": "Skills",
+    "reference": "religion"
+  },
+  {
+    "index": "saving-throw-dex",
+    "name": "Saving Throw: DEX",
+    "type": "Saving Throws",
+    "reference": "dex"
+  },
+  {
+    "index": "saving-throw-cha",
+    "name": "Saving Throw: CHA",
+    "type": "Saving Throws",
+    "reference": "cha"
+  },
+  {
+    "index": "skill-stealth",
+    "name": "Skill: Stealth",
+    "type": "Skills",
+    "reference": "stealth"
+  },
+  {
+    "index": "skill-persuasion",
+    "name": "Skill: Persuasion",
+    "type": "Skills",
+    "reference": "persuasion"
+  },
+  {
+    "index": "skill-insight",
+    "name": "Skill: Insight",
+    "type": "Skills",
+    "reference": "insight"
+  },
+  {
+    "index": "skill-deception",
+    "name": "Skill: Deception",
+    "type": "Skills",
+    "reference": "deception"
+  },
+  {
+    "index": "skill-arcana",
+    "name": "Skill: Arcana",
+    "type": "Skills",
+    "reference": "arcana"
+  },
+  {
+    "index": "skill-athletics",
+    "name": "Skill: Athletics",
+    "type": "Skills",
+    "reference": "athletics"
+  },
+  {
+    "index": "skill-acrobatics",
+    "name": "Skill: Acrobatics",
+    "type": "Skills",
+    "reference": "acrobatics"
+  },
+  {
+    "index": "saving-throw-str",
+    "name": "Saving Throw: STR",
+    "type": "Saving Throws",
+    "reference": "str"
+  },
+  {
+    "index": "skill-survival",
+    "name": "Skill: Survival",
+    "type": "Skills",
+    "reference": "survival"
+  },
+  {
+    "index": "skill-investigation",
+    "name": "Skill: Investigation",
+    "type": "Skills",
+    "reference": "investigation"
+  },
+  {
+    "index": "skill-nature",
+    "name": "Skill: Nature",
+    "type": "Skills",
+    "reference": "nature"
+  },
+  {
+    "index": "skill-intimidation",
+    "name": "Skill: Intimidation",
+    "type": "Skills",
+    "reference": "intimidation"
+  },
+  {
+    "index": "skill-performance",
+    "name": "Skill: Performance",
+    "type": "Skills",
+    "reference": "performance"
+  }
+]

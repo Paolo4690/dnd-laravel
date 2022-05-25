@@ -1,0 +1,4369 @@
+[
+  {
+    "index": "aboleth",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-int"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 12,
+        "index": "skill-history"
+      },
+      {
+        "value": 10,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "acolyte",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-medicine"
+      },
+      {
+        "value": 2,
+        "index": "skill-religion"
+      }
+    ]
+  },
+  {
+    "index": "adult-black-dragon",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 10,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 11,
+        "index": "skill-perception"
+      },
+      {
+        "value": 7,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "adult-blue-dragon",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 11,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 12,
+        "index": "skill-perception"
+      },
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "adult-brass-dragon",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 10,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 7,
+        "index": "skill-history"
+      },
+      {
+        "value": 11,
+        "index": "skill-perception"
+      },
+      {
+        "value": 8,
+        "index": "skill-persuasion"
+      },
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "adult-bronze-dragon",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 11,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 7,
+        "index": "skill-insight"
+      },
+      {
+        "value": 12,
+        "index": "skill-perception"
+      },
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "adult-copper-dragon",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 10,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 8,
+        "index": "skill-deception"
+      },
+      {
+        "value": 12,
+        "index": "skill-perception"
+      },
+      {
+        "value": 6,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "adult-gold-dragon",
+    "proficiencies": [
+      {
+        "value": 8,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 13,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 13,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 8,
+        "index": "skill-insight"
+      },
+      {
+        "value": 14,
+        "index": "skill-perception"
+      },
+      {
+        "value": 13,
+        "index": "skill-persuasion"
+      },
+      {
+        "value": 8,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "adult-green-dragon",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 10,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 8,
+        "index": "skill-deception"
+      },
+      {
+        "value": 7,
+        "index": "skill-insight"
+      },
+      {
+        "value": 12,
+        "index": "skill-perception"
+      },
+      {
+        "value": 8,
+        "index": "skill-persuasion"
+      },
+      {
+        "value": 6,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "adult-red-dragon",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 13,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 11,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 13,
+        "index": "skill-perception"
+      },
+      {
+        "value": 6,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "adult-silver-dragon",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 12,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 10,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 8,
+        "index": "skill-arcana"
+      },
+      {
+        "value": 8,
+        "index": "skill-history"
+      },
+      {
+        "value": 11,
+        "index": "skill-perception"
+      },
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "adult-white-dragon",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 11,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 11,
+        "index": "skill-perception"
+      },
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "air-elemental",
+    "proficiencies": []
+  },
+  {
+    "index": "ancient-black-dragon",
+    "proficiencies": [
+      {
+        "value": 9,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 14,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 11,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 16,
+        "index": "skill-perception"
+      },
+      {
+        "value": 9,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "ancient-blue-dragon",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 15,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 10,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 12,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 17,
+        "index": "skill-perception"
+      },
+      {
+        "value": 7,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "ancient-brass-dragon",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 13,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 10,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 9,
+        "index": "skill-history"
+      },
+      {
+        "value": 14,
+        "index": "skill-perception"
+      },
+      {
+        "value": 10,
+        "index": "skill-persuasion"
+      },
+      {
+        "value": 6,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "ancient-bronze-dragon",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 15,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 10,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 12,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 10,
+        "index": "skill-insight"
+      },
+      {
+        "value": 17,
+        "index": "skill-perception"
+      },
+      {
+        "value": 7,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "ancient-copper-dragon",
+    "proficiencies": [
+      {
+        "value": 8,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 14,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 10,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 11,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 11,
+        "index": "skill-deception"
+      },
+      {
+        "value": 17,
+        "index": "skill-perception"
+      },
+      {
+        "value": 8,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "ancient-gold-dragon",
+    "proficiencies": [
+      {
+        "value": 9,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 16,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 10,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 16,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 10,
+        "index": "skill-insight"
+      },
+      {
+        "value": 17,
+        "index": "skill-perception"
+      },
+      {
+        "value": 16,
+        "index": "skill-persuasion"
+      },
+      {
+        "value": 9,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "ancient-green-dragon",
+    "proficiencies": [
+      {
+        "value": 8,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 14,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 10,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 11,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 11,
+        "index": "skill-deception"
+      },
+      {
+        "value": 10,
+        "index": "skill-insight"
+      },
+      {
+        "value": 17,
+        "index": "skill-perception"
+      },
+      {
+        "value": 11,
+        "index": "skill-persuasion"
+      },
+      {
+        "value": 8,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "ancient-red-dragon",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 16,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 13,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 16,
+        "index": "skill-perception"
+      },
+      {
+        "value": 7,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "ancient-silver-dragon",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 16,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 13,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 11,
+        "index": "skill-arcana"
+      },
+      {
+        "value": 11,
+        "index": "skill-history"
+      },
+      {
+        "value": 16,
+        "index": "skill-perception"
+      },
+      {
+        "value": 7,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "ancient-white-dragon",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 14,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 13,
+        "index": "skill-perception"
+      },
+      {
+        "value": 6,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "androsphinx",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 11,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-int"
+      },
+      {
+        "value": 10,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 9,
+        "index": "skill-arcana"
+      },
+      {
+        "value": 10,
+        "index": "skill-perception"
+      },
+      {
+        "value": 15,
+        "index": "skill-religion"
+      }
+    ]
+  },
+  {
+    "index": "animated-armor",
+    "proficiencies": []
+  },
+  {
+    "index": "ankheg",
+    "proficiencies": []
+  },
+  {
+    "index": "ape",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-athletics"
+      },
+      {
+        "value": 3,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "archmage",
+    "proficiencies": [
+      {
+        "value": 9,
+        "index": "saving-throw-int"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 13,
+        "index": "skill-arcana"
+      },
+      {
+        "value": 13,
+        "index": "skill-history"
+      }
+    ]
+  },
+  {
+    "index": "assassin",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-int"
+      },
+      {
+        "value": 6,
+        "index": "skill-acrobatics"
+      },
+      {
+        "value": 3,
+        "index": "skill-deception"
+      },
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 9,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "awakened-shrub",
+    "proficiencies": []
+  },
+  {
+    "index": "awakened-tree",
+    "proficiencies": []
+  },
+  {
+    "index": "axe-beak",
+    "proficiencies": []
+  },
+  {
+    "index": "azer",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "saving-throw-con"
+      }
+    ]
+  },
+  {
+    "index": "baboon",
+    "proficiencies": []
+  },
+  {
+    "index": "badger",
+    "proficiencies": []
+  },
+  {
+    "index": "balor",
+    "proficiencies": [
+      {
+        "value": 14,
+        "index": "saving-throw-str"
+      },
+      {
+        "value": 12,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 12,
+        "index": "saving-throw-cha"
+      }
+    ]
+  },
+  {
+    "index": "bandit",
+    "proficiencies": []
+  },
+  {
+    "index": "bandit-captain",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "saving-throw-str"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 2,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 4,
+        "index": "skill-athletics"
+      },
+      {
+        "value": 4,
+        "index": "skill-deception"
+      }
+    ]
+  },
+  {
+    "index": "barbed-devil",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "saving-throw-str"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 5,
+        "index": "skill-deception"
+      },
+      {
+        "value": 5,
+        "index": "skill-insight"
+      },
+      {
+        "value": 8,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "basilisk",
+    "proficiencies": []
+  },
+  {
+    "index": "bat",
+    "proficiencies": []
+  },
+  {
+    "index": "bearded-devil",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "saving-throw-str"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 2,
+        "index": "saving-throw-wis"
+      }
+    ]
+  },
+  {
+    "index": "behir",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "skill-perception"
+      },
+      {
+        "value": 7,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "berserker",
+    "proficiencies": []
+  },
+  {
+    "index": "black-bear",
+    "proficiencies": []
+  },
+  {
+    "index": "black-dragon-wyrmling",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 3,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 2,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 3,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 4,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "black-pudding",
+    "proficiencies": []
+  },
+  {
+    "index": "blink-dog",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "blood-hawk",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "blue-dragon-wyrmling",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 2,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 4,
+        "index": "skill-perception"
+      },
+      {
+        "value": 2,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "boar",
+    "proficiencies": []
+  },
+  {
+    "index": "bone-devil",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "saving-throw-int"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 7,
+        "index": "skill-deception"
+      },
+      {
+        "value": 6,
+        "index": "skill-insight"
+      }
+    ]
+  },
+  {
+    "index": "brass-dragon-wyrmling",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 3,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 2,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 3,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 4,
+        "index": "skill-perception"
+      },
+      {
+        "value": 2,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "bronze-dragon-wyrmling",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 2,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 4,
+        "index": "skill-perception"
+      },
+      {
+        "value": 2,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "brown-bear",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "bugbear",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "skill-stealth"
+      },
+      {
+        "value": 2,
+        "index": "skill-survival"
+      }
+    ]
+  },
+  {
+    "index": "bulette",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "camel",
+    "proficiencies": []
+  },
+  {
+    "index": "cat",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "centaur",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "skill-athletics"
+      },
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 3,
+        "index": "skill-survival"
+      }
+    ]
+  },
+  {
+    "index": "chain-devil",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-cha"
+      }
+    ]
+  },
+  {
+    "index": "chimera",
+    "proficiencies": [
+      {
+        "value": 8,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "chuul",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "clay-golem",
+    "proficiencies": []
+  },
+  {
+    "index": "cloaker",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "cloud-giant",
+    "proficiencies": [
+      {
+        "value": 10,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 7,
+        "index": "skill-insight"
+      },
+      {
+        "value": 7,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "cockatrice",
+    "proficiencies": []
+  },
+  {
+    "index": "commoner",
+    "proficiencies": []
+  },
+  {
+    "index": "constrictor-snake",
+    "proficiencies": []
+  },
+  {
+    "index": "copper-dragon-wyrmling",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 3,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 2,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 3,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 4,
+        "index": "skill-perception"
+      },
+      {
+        "value": 3,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "couatl",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-cha"
+      }
+    ]
+  },
+  {
+    "index": "crab",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "crocodile",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "cult-fanatic",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-deception"
+      },
+      {
+        "value": 4,
+        "index": "skill-persuasion"
+      },
+      {
+        "value": 2,
+        "index": "skill-religion"
+      }
+    ]
+  },
+  {
+    "index": "cultist",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-deception"
+      },
+      {
+        "value": 2,
+        "index": "skill-religion"
+      }
+    ]
+  },
+  {
+    "index": "darkmantle",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "death-dog",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "deep-gnome-svirfneblin",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-investigation"
+      },
+      {
+        "value": 2,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "deer",
+    "proficiencies": []
+  },
+  {
+    "index": "deva",
+    "proficiencies": [
+      {
+        "value": 9,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 9,
+        "index": "skill-insight"
+      },
+      {
+        "value": 9,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "dire-wolf",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "djinni",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-cha"
+      }
+    ]
+  },
+  {
+    "index": "doppelganger",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "skill-deception"
+      },
+      {
+        "value": 3,
+        "index": "skill-insight"
+      }
+    ]
+  },
+  {
+    "index": "draft-horse",
+    "proficiencies": []
+  },
+  {
+    "index": "dragon-turtle",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 11,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-wis"
+      }
+    ]
+  },
+  {
+    "index": "dretch",
+    "proficiencies": []
+  },
+  {
+    "index": "drider",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-perception"
+      },
+      {
+        "value": 9,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "drow",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "druid",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-medicine"
+      },
+      {
+        "value": 3,
+        "index": "skill-nature"
+      },
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "dryad",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-perception"
+      },
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "duergar",
+    "proficiencies": []
+  },
+  {
+    "index": "dust-mephit",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "eagle",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "earth-elemental",
+    "proficiencies": []
+  },
+  {
+    "index": "efreeti",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "saving-throw-int"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-cha"
+      }
+    ]
+  },
+  {
+    "index": "elephant",
+    "proficiencies": []
+  },
+  {
+    "index": "elk",
+    "proficiencies": []
+  },
+  {
+    "index": "erinyes",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-cha"
+      }
+    ]
+  },
+  {
+    "index": "ettercap",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      },
+      {
+        "value": 3,
+        "index": "skill-survival"
+      }
+    ]
+  },
+  {
+    "index": "ettin",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "fire-elemental",
+    "proficiencies": []
+  },
+  {
+    "index": "fire-giant",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 10,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 11,
+        "index": "skill-athletics"
+      },
+      {
+        "value": 6,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "flesh-golem",
+    "proficiencies": []
+  },
+  {
+    "index": "flying-snake",
+    "proficiencies": []
+  },
+  {
+    "index": "flying-sword",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "saving-throw-dex"
+      }
+    ]
+  },
+  {
+    "index": "frog",
+    "proficiencies": [
+      {
+        "value": 1,
+        "index": "skill-perception"
+      },
+      {
+        "value": 3,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "frost-giant",
+    "proficiencies": [
+      {
+        "value": 8,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 3,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 9,
+        "index": "skill-athletics"
+      },
+      {
+        "value": 3,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "gargoyle",
+    "proficiencies": []
+  },
+  {
+    "index": "gelatinous-cube",
+    "proficiencies": []
+  },
+  {
+    "index": "ghast",
+    "proficiencies": []
+  },
+  {
+    "index": "ghost",
+    "proficiencies": []
+  },
+  {
+    "index": "ghoul",
+    "proficiencies": []
+  },
+  {
+    "index": "giant-ape",
+    "proficiencies": [
+      {
+        "value": 9,
+        "index": "skill-athletics"
+      },
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "giant-badger",
+    "proficiencies": []
+  },
+  {
+    "index": "giant-bat",
+    "proficiencies": []
+  },
+  {
+    "index": "giant-boar",
+    "proficiencies": []
+  },
+  {
+    "index": "giant-centipede",
+    "proficiencies": []
+  },
+  {
+    "index": "giant-constrictor-snake",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "giant-crab",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "giant-crocodile",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "giant-eagle",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "giant-elk",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "giant-fire-beetle",
+    "proficiencies": []
+  },
+  {
+    "index": "giant-frog",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      },
+      {
+        "value": 3,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "giant-goat",
+    "proficiencies": []
+  },
+  {
+    "index": "giant-hyena",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "giant-lizard",
+    "proficiencies": []
+  },
+  {
+    "index": "giant-octopus",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-perception"
+      },
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "giant-owl",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "giant-poisonous-snake",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "giant-rat",
+    "proficiencies": []
+  },
+  {
+    "index": "giant-rat-diseased",
+    "proficiencies": []
+  },
+  {
+    "index": "giant-scorpion",
+    "proficiencies": []
+  },
+  {
+    "index": "giant-sea-horse",
+    "proficiencies": []
+  },
+  {
+    "index": "giant-shark",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "giant-spider",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "giant-toad",
+    "proficiencies": []
+  },
+  {
+    "index": "giant-vulture",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "giant-wasp",
+    "proficiencies": []
+  },
+  {
+    "index": "giant-weasel",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "giant-wolf-spider",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 7,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "gibbering-mouther",
+    "proficiencies": []
+  },
+  {
+    "index": "glabrezu",
+    "proficiencies": [
+      {
+        "value": 9,
+        "index": "saving-throw-str"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-cha"
+      }
+    ]
+  },
+  {
+    "index": "gladiator",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "saving-throw-str"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 10,
+        "index": "skill-athletics"
+      },
+      {
+        "value": 5,
+        "index": "skill-intimidation"
+      }
+    ]
+  },
+  {
+    "index": "gnoll",
+    "proficiencies": []
+  },
+  {
+    "index": "goat",
+    "proficiencies": []
+  },
+  {
+    "index": "goblin",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "gold-dragon-wyrmling",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 2,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 4,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "gorgon",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "gray-ooze",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "green-dragon-wyrmling",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 3,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 2,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 3,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 4,
+        "index": "skill-perception"
+      },
+      {
+        "value": 3,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "green-hag",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-arcana"
+      },
+      {
+        "value": 4,
+        "index": "skill-deception"
+      },
+      {
+        "value": 4,
+        "index": "skill-perception"
+      },
+      {
+        "value": 3,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "grick",
+    "proficiencies": []
+  },
+  {
+    "index": "griffon",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "grimlock",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-athletics"
+      },
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 3,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "guard",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "guardian-naga",
+    "proficiencies": [
+      {
+        "value": 8,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-int"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-cha"
+      }
+    ]
+  },
+  {
+    "index": "gynosphinx",
+    "proficiencies": [
+      {
+        "value": 12,
+        "index": "skill-arcana"
+      },
+      {
+        "value": 12,
+        "index": "skill-history"
+      },
+      {
+        "value": 8,
+        "index": "skill-perception"
+      },
+      {
+        "value": 8,
+        "index": "skill-religion"
+      }
+    ]
+  },
+  {
+    "index": "half-red-dragon-veteran",
+    "proficiencies": []
+  },
+  {
+    "index": "harpy",
+    "proficiencies": []
+  },
+  {
+    "index": "hawk",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "hell-hound",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "hezrou",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "saving-throw-str"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-wis"
+      }
+    ]
+  },
+  {
+    "index": "hill-giant",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "hippogriff",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "hobgoblin",
+    "proficiencies": []
+  },
+  {
+    "index": "homunculus",
+    "proficiencies": []
+  },
+  {
+    "index": "horned-devil",
+    "proficiencies": [
+      {
+        "value": 10,
+        "index": "saving-throw-str"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-cha"
+      }
+    ]
+  },
+  {
+    "index": "hunter-shark",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "hydra",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "hyena",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "ice-devil",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-cha"
+      }
+    ]
+  },
+  {
+    "index": "ice-mephit",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      },
+      {
+        "value": 3,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "imp",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-deception"
+      },
+      {
+        "value": 3,
+        "index": "skill-insight"
+      },
+      {
+        "value": 4,
+        "index": "skill-persuasion"
+      },
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "invisible-stalker",
+    "proficiencies": [
+      {
+        "value": 8,
+        "index": "skill-perception"
+      },
+      {
+        "value": 10,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "iron-golem",
+    "proficiencies": []
+  },
+  {
+    "index": "jackal",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "killer-whale",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "knight",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 2,
+        "index": "saving-throw-wis"
+      }
+    ]
+  },
+  {
+    "index": "kobold",
+    "proficiencies": []
+  },
+  {
+    "index": "kraken",
+    "proficiencies": [
+      {
+        "value": 17,
+        "index": "saving-throw-str"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 14,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 13,
+        "index": "saving-throw-int"
+      },
+      {
+        "value": 11,
+        "index": "saving-throw-wis"
+      }
+    ]
+  },
+  {
+    "index": "lamia",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "skill-deception"
+      },
+      {
+        "value": 4,
+        "index": "skill-insight"
+      },
+      {
+        "value": 3,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "lemure",
+    "proficiencies": []
+  },
+  {
+    "index": "lich",
+    "proficiencies": [
+      {
+        "value": 10,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 12,
+        "index": "saving-throw-int"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 18,
+        "index": "skill-arcana"
+      },
+      {
+        "value": 12,
+        "index": "skill-history"
+      },
+      {
+        "value": 9,
+        "index": "skill-insight"
+      },
+      {
+        "value": 9,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "lion",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 6,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "lizard",
+    "proficiencies": []
+  },
+  {
+    "index": "lizardfolk",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      },
+      {
+        "value": 5,
+        "index": "skill-survival"
+      }
+    ]
+  },
+  {
+    "index": "mage",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "saving-throw-int"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 6,
+        "index": "skill-arcana"
+      },
+      {
+        "value": 6,
+        "index": "skill-history"
+      }
+    ]
+  },
+  {
+    "index": "magma-mephit",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "magmin",
+    "proficiencies": []
+  },
+  {
+    "index": "mammoth",
+    "proficiencies": []
+  },
+  {
+    "index": "manticore",
+    "proficiencies": []
+  },
+  {
+    "index": "marilith",
+    "proficiencies": [
+      {
+        "value": 9,
+        "index": "saving-throw-str"
+      },
+      {
+        "value": 10,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 10,
+        "index": "saving-throw-cha"
+      }
+    ]
+  },
+  {
+    "index": "mastiff",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "medusa",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-deception"
+      },
+      {
+        "value": 4,
+        "index": "skill-insight"
+      },
+      {
+        "value": 4,
+        "index": "skill-perception"
+      },
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "merfolk",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "merrow",
+    "proficiencies": []
+  },
+  {
+    "index": "mimic",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "minotaur",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "minotaur-skeleton",
+    "proficiencies": []
+  },
+  {
+    "index": "mule",
+    "proficiencies": []
+  },
+  {
+    "index": "mummy",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "saving-throw-wis"
+      }
+    ]
+  },
+  {
+    "index": "mummy-lord",
+    "proficiencies": [
+      {
+        "value": 8,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-int"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 5,
+        "index": "skill-history"
+      },
+      {
+        "value": 5,
+        "index": "skill-religion"
+      }
+    ]
+  },
+  {
+    "index": "nalfeshnee",
+    "proficiencies": [
+      {
+        "value": 11,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-int"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-cha"
+      }
+    ]
+  },
+  {
+    "index": "night-hag",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "skill-deception"
+      },
+      {
+        "value": 6,
+        "index": "skill-insight"
+      },
+      {
+        "value": 6,
+        "index": "skill-perception"
+      },
+      {
+        "value": 6,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "nightmare",
+    "proficiencies": []
+  },
+  {
+    "index": "noble",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-deception"
+      },
+      {
+        "value": 4,
+        "index": "skill-insight"
+      },
+      {
+        "value": 5,
+        "index": "skill-persuasion"
+      }
+    ]
+  },
+  {
+    "index": "ochre-jelly",
+    "proficiencies": []
+  },
+  {
+    "index": "octopus",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "ogre",
+    "proficiencies": []
+  },
+  {
+    "index": "ogre-zombie",
+    "proficiencies": [
+      {
+        "value": 0,
+        "index": "saving-throw-wis"
+      }
+    ]
+  },
+  {
+    "index": "oni",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 5,
+        "index": "skill-arcana"
+      },
+      {
+        "value": 8,
+        "index": "skill-deception"
+      },
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "orc",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-intimidation"
+      }
+    ]
+  },
+  {
+    "index": "otyugh",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "saving-throw-con"
+      }
+    ]
+  },
+  {
+    "index": "owl",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 3,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "owlbear",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "panther",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-perception"
+      },
+      {
+        "value": 6,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "pegasus",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 3,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 6,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "phase-spider",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "pit-fiend",
+    "proficiencies": [
+      {
+        "value": 8,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 13,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 10,
+        "index": "saving-throw-wis"
+      }
+    ]
+  },
+  {
+    "index": "planetar",
+    "proficiencies": [
+      {
+        "value": 12,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 11,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 12,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 11,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "plesiosaurus",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "poisonous-snake",
+    "proficiencies": []
+  },
+  {
+    "index": "polar-bear",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "pony",
+    "proficiencies": []
+  },
+  {
+    "index": "priest",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "skill-medicine"
+      },
+      {
+        "value": 3,
+        "index": "skill-persuasion"
+      },
+      {
+        "value": 4,
+        "index": "skill-religion"
+      }
+    ]
+  },
+  {
+    "index": "pseudodragon",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "purple-worm",
+    "proficiencies": [
+      {
+        "value": 11,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-wis"
+      }
+    ]
+  },
+  {
+    "index": "quasit",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "quipper",
+    "proficiencies": []
+  },
+  {
+    "index": "rakshasa",
+    "proficiencies": [
+      {
+        "value": 10,
+        "index": "skill-deception"
+      },
+      {
+        "value": 8,
+        "index": "skill-insight"
+      }
+    ]
+  },
+  {
+    "index": "rat",
+    "proficiencies": []
+  },
+  {
+    "index": "raven",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "red-dragon-wyrmling",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 2,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 4,
+        "index": "skill-perception"
+      },
+      {
+        "value": 2,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "reef-shark",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "remorhaz",
+    "proficiencies": []
+  },
+  {
+    "index": "rhinoceros",
+    "proficiencies": []
+  },
+  {
+    "index": "riding-horse",
+    "proficiencies": []
+  },
+  {
+    "index": "roc",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 3,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "roper",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "skill-perception"
+      },
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "rug-of-smothering",
+    "proficiencies": []
+  },
+  {
+    "index": "rust-monster",
+    "proficiencies": []
+  },
+  {
+    "index": "saber-toothed-tiger",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 6,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "sahuagin",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "salamander",
+    "proficiencies": []
+  },
+  {
+    "index": "satyr",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      },
+      {
+        "value": 6,
+        "index": "skill-performance"
+      },
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "scorpion",
+    "proficiencies": []
+  },
+  {
+    "index": "scout",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-nature"
+      },
+      {
+        "value": 5,
+        "index": "skill-perception"
+      },
+      {
+        "value": 6,
+        "index": "skill-stealth"
+      },
+      {
+        "value": 5,
+        "index": "skill-survival"
+      }
+    ]
+  },
+  {
+    "index": "sea-hag",
+    "proficiencies": []
+  },
+  {
+    "index": "sea-horse",
+    "proficiencies": []
+  },
+  {
+    "index": "shadow",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "shambling-mound",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "shield-guardian",
+    "proficiencies": []
+  },
+  {
+    "index": "shrieker",
+    "proficiencies": []
+  },
+  {
+    "index": "silver-dragon-wyrmling",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 2,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 4,
+        "index": "skill-perception"
+      },
+      {
+        "value": 2,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "skeleton",
+    "proficiencies": []
+  },
+  {
+    "index": "solar",
+    "proficiencies": [
+      {
+        "value": 14,
+        "index": "saving-throw-int"
+      },
+      {
+        "value": 14,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 17,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 14,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "specter",
+    "proficiencies": []
+  },
+  {
+    "index": "spider",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "spirit-naga",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-cha"
+      }
+    ]
+  },
+  {
+    "index": "sprite",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 8,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "spy",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-deception"
+      },
+      {
+        "value": 4,
+        "index": "skill-insight"
+      },
+      {
+        "value": 5,
+        "index": "skill-investigation"
+      },
+      {
+        "value": 6,
+        "index": "skill-perception"
+      },
+      {
+        "value": 5,
+        "index": "skill-persuasion"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "steam-mephit",
+    "proficiencies": []
+  },
+  {
+    "index": "stirge",
+    "proficiencies": []
+  },
+  {
+    "index": "stone-giant",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 12,
+        "index": "skill-athletics"
+      },
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "stone-golem",
+    "proficiencies": []
+  },
+  {
+    "index": "storm-giant",
+    "proficiencies": [
+      {
+        "value": 14,
+        "index": "saving-throw-str"
+      },
+      {
+        "value": 10,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 8,
+        "index": "skill-arcana"
+      },
+      {
+        "value": 14,
+        "index": "skill-athletics"
+      },
+      {
+        "value": 8,
+        "index": "skill-history"
+      },
+      {
+        "value": 9,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "succubus-incubus",
+    "proficiencies": [
+      {
+        "value": 9,
+        "index": "skill-deception"
+      },
+      {
+        "value": 5,
+        "index": "skill-insight"
+      },
+      {
+        "value": 5,
+        "index": "skill-perception"
+      },
+      {
+        "value": 9,
+        "index": "skill-persuasion"
+      },
+      {
+        "value": 7,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "swarm-of-bats",
+    "proficiencies": []
+  },
+  {
+    "index": "swarm-of-beetles",
+    "proficiencies": []
+  },
+  {
+    "index": "swarm-of-centipedes",
+    "proficiencies": []
+  },
+  {
+    "index": "swarm-of-insects",
+    "proficiencies": []
+  },
+  {
+    "index": "swarm-of-poisonous-snakes",
+    "proficiencies": []
+  },
+  {
+    "index": "swarm-of-quippers",
+    "proficiencies": []
+  },
+  {
+    "index": "swarm-of-rats",
+    "proficiencies": []
+  },
+  {
+    "index": "swarm-of-ravens",
+    "proficiencies": []
+  },
+  {
+    "index": "swarm-of-spiders",
+    "proficiencies": []
+  },
+  {
+    "index": "swarm-of-wasps",
+    "proficiencies": []
+  },
+  {
+    "index": "tarrasque",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "saving-throw-int"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-cha"
+      }
+    ]
+  },
+  {
+    "index": "thug",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-intimidation"
+      }
+    ]
+  },
+  {
+    "index": "tiger",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 6,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "treant",
+    "proficiencies": []
+  },
+  {
+    "index": "tribal-warrior",
+    "proficiencies": []
+  },
+  {
+    "index": "triceratops",
+    "proficiencies": []
+  },
+  {
+    "index": "troll",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "tyrannosaurus-rex",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "unicorn",
+    "proficiencies": []
+  },
+  {
+    "index": "vampire",
+    "proficiencies": [
+      {
+        "value": 9,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 7,
+        "index": "skill-perception"
+      },
+      {
+        "value": 9,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "vampire-spawn",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 3,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 6,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "veteran",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-athletics"
+      },
+      {
+        "value": 2,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "violet-fungus",
+    "proficiencies": []
+  },
+  {
+    "index": "vrock",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 2,
+        "index": "saving-throw-cha"
+      }
+    ]
+  },
+  {
+    "index": "vulture",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "warhorse",
+    "proficiencies": []
+  },
+  {
+    "index": "warhorse-skeleton",
+    "proficiencies": []
+  },
+  {
+    "index": "water-elemental",
+    "proficiencies": []
+  },
+  {
+    "index": "weasel",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "werebear-bear",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "werebear-human",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "werebear-hybrid",
+    "proficiencies": [
+      {
+        "value": 7,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "wereboar-boar",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "wereboar-human",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "wereboar-hybrid",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "wererat-human",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "wererat-hybrid",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "wererat-rat",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "weretiger-human",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "weretiger-hybrid",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "weretiger-tiger",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "werewolf-human",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "werewolf-hybrid",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "werewolf-wolf",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "white-dragon-wyrmling",
+    "proficiencies": [
+      {
+        "value": 2,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 2,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 2,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 4,
+        "index": "skill-perception"
+      },
+      {
+        "value": 2,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "wight",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "will-o-wisp",
+    "proficiencies": []
+  },
+  {
+    "index": "winter-wolf",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "skill-perception"
+      },
+      {
+        "value": 3,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "wolf",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "worg",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "wraith",
+    "proficiencies": []
+  },
+  {
+    "index": "wyvern",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "skill-perception"
+      }
+    ]
+  },
+  {
+    "index": "xorn",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "skill-perception"
+      },
+      {
+        "value": 3,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "young-black-dragon",
+    "proficiencies": [
+      {
+        "value": 5,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 3,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 6,
+        "index": "skill-perception"
+      },
+      {
+        "value": 5,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "young-blue-dragon",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 9,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "young-brass-dragon",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 3,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 6,
+        "index": "skill-perception"
+      },
+      {
+        "value": 5,
+        "index": "skill-persuasion"
+      },
+      {
+        "value": 3,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "young-bronze-dragon",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 4,
+        "index": "skill-insight"
+      },
+      {
+        "value": 7,
+        "index": "skill-perception"
+      },
+      {
+        "value": 3,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "young-copper-dragon",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 5,
+        "index": "skill-deception"
+      },
+      {
+        "value": 7,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "young-gold-dragon",
+    "proficiencies": [
+      {
+        "value": 6,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 5,
+        "index": "skill-insight"
+      },
+      {
+        "value": 9,
+        "index": "skill-perception"
+      },
+      {
+        "value": 9,
+        "index": "skill-persuasion"
+      },
+      {
+        "value": 6,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "young-green-dragon",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 6,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 5,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 5,
+        "index": "skill-deception"
+      },
+      {
+        "value": 7,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "young-red-dragon",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 8,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "young-silver-dragon",
+    "proficiencies": [
+      {
+        "value": 4,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 9,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 8,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 6,
+        "index": "skill-arcana"
+      },
+      {
+        "value": 6,
+        "index": "skill-history"
+      },
+      {
+        "value": 8,
+        "index": "skill-perception"
+      },
+      {
+        "value": 4,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "young-white-dragon",
+    "proficiencies": [
+      {
+        "value": 3,
+        "index": "saving-throw-dex"
+      },
+      {
+        "value": 7,
+        "index": "saving-throw-con"
+      },
+      {
+        "value": 3,
+        "index": "saving-throw-wis"
+      },
+      {
+        "value": 4,
+        "index": "saving-throw-cha"
+      },
+      {
+        "value": 6,
+        "index": "skill-perception"
+      },
+      {
+        "value": 3,
+        "index": "skill-stealth"
+      }
+    ]
+  },
+  {
+    "index": "zombie",
+    "proficiencies": [
+      {
+        "value": 0,
+        "index": "saving-throw-wis"
+      }
+    ]
+  }
+]
