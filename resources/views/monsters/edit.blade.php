@@ -3,7 +3,7 @@
 
 @section('main')
     <main class="container">
-        <form action="{{ route('monsters.update', $monster->id) }}" method="POST">
+        <form action="{{ route('monsters.update', $monster->index) }}" method="POST">
             @csrf
             @method('PUT')
             <div class="form-group">

@@ -10,8 +10,8 @@
                 <div class="col">
 
                     <div class="card mb-3" style="width: 18rem;">
-                        <div class="card-img-top bg-dark text-white py-3">
-                            <h5>{{ $monster->name }}</h5>
+                        <div class="card-img-top bg-dark text-white px-1 py-3">
+                            <h5><i class="fa-solid fa-ghost"></i>&nbsp;{{ $monster->name }}</h5>
                         </div>
                         <div class="card-body">
                             <h6 class="card-title">{{ $monster->type }}</h6>
@@ -23,9 +23,9 @@
                             <li class="list-group-item">XP: {{ $monster->xp }}</li>
                         </ul>
                         <div class="card-body">
-                            <a href="{{ route('monsters.show', $monster->id) }}" class="card-link">View monster</a>
+                            <a href="{{ route('monsters.show', $monster->index) }}" class="card-link">View monster</a>
 
-                            <button class="btn btn-danger btn_delete" data-id="{{ $monster->id }}"  >Delete Monster</button>
+                            <button class="btn btn-danger btn_delete" data-id="{{ $monster->index }}"  >Delete Monster</button>
                         </div>
                     </div>
                 </div>
@@ -33,19 +33,19 @@
             </div>
 
             <div class="overlay d-none">
-            <div class="confirmation">
-                <h3>Sei sicuro di voler eliminare il monster?</h3>
-                <div class="d-flex justify-content-center gap-2">
-                    <button id="btn-no" class="btn btn-success mb-2">NO</button>
-                    <form class="form" data-base="{{ route('monsters.index') }}" method="post">
-                        @csrf
-                        @method('DELETE')
-                        <button class="btn btn-danger mb-2">ELIMINA</button>
-                    </form>
-                </div>
+                <div class="confirmation">
+                    <h3>Sei sicuro di voler eliminare il monster?</h3>
+                    <div class="d-flex justify-content-center gap-2">
+                        <button id="btn-no" class="btn btn-success mb-2">NO</button>
+                        <form class="form" data-base="{{ route('monsters.index') }}" method="post">
+                            @csrf
+                            @method('DELETE')
+                            <button class="btn btn-danger mb-2">ELIMINA</button>
+                        </form>
+                    </div>
 
+                </div>
             </div>
-        </div>
 
             {{ $monsters->links() }}
 

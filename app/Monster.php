@@ -25,4 +25,10 @@ class Monster extends Model
         'hit_dice',
         'languages',
     ];
+
+    public function getRouteKeyName()
+    {
+        return 'index';
+    }
+
 }

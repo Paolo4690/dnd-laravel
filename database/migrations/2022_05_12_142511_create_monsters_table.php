@@ -15,25 +15,24 @@ class CreateMonstersTable extends Migration
     {
         Schema::create('monsters', function (Blueprint $table) {
             $table->id();
-            $table->timestamps();
-
-            $table->string("index");
+            $table->string("index")->unique();
             $table->string("name");
             $table->string("type");
             $table->string("alignment");
             $table->string("size");
             $table->string("hit_dice");
             $table->string("languages");
-            $table->integer("armor_class");
-            $table->integer("hit_points");
-            $table->integer("strength");
-            $table->integer("dexterity");
-            $table->integer("constitution");
-            $table->integer("intelligence");
-            $table->integer("wisdom");
-            $table->integer("charisma");
-            $table->integer("xp");
-            $table->integer("challenge_rating");
+            $table->unsignedInteger("armor_class");
+            $table->unsignedInteger("hit_points");
+            $table->unsignedInteger("strength");
+            $table->unsignedInteger("dexterity");
+            $table->unsignedInteger("constitution");
+            $table->unsignedInteger("intelligence");
+            $table->unsignedInteger("wisdom");
+            $table->unsignedInteger("charisma");
+            $table->unsignedInteger("xp");
+            $table->unsignedInteger("challenge_rating");
+            $table->timestamps();
         });
     }
 

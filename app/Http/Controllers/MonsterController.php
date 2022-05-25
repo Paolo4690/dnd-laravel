@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Monster;
+use Illuminate\Validation\Rule;
 
 class MonsterController extends Controller
 {
@@ -60,7 +61,7 @@ class MonsterController extends Controller
 
         $formData = $request->all();
         $newMonster = Monster::create($formData);
-        return redirect()->route('monsters.show', $newMonster->id);
+        return redirect()->route('monsters.show', $newMonster->index);
     }
 
     /**
@@ -102,8 +103,16 @@ class MonsterController extends Controller
 
     {
         $request->validate([
-            'index'=> 'unique:monsters|max:255',
-            'name'=> 'unique:monsters|max:255',
+            'index'=> [
+                Rule::unique('monsters')->ignore($monster),
+                'max:255'
+            ],
+            'name'=> [
+                Rule::unique('monsters')->ignore($monster),
+                'max:255'
+            ],
+            // 'index'=> 'unique:monsters|max:255',
+            // 'name'=> 'unique:monsters|max:255',
             'type'=> 'required|max:50',
             'alignment'=> 'max:100',
             'size'=> 'required|max:50',
@@ -123,7 +132,7 @@ class MonsterController extends Controller
 
         $data = $request->all();
         $monster->update($data);
-        return redirect()->route('monsters.show', $monster->id);
+        return redirect()->route('monsters.show', $monster->index);
     }
 
     /**
